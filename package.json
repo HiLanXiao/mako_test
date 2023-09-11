@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "author": "zhanglanxiao.zlx <zhanglanxiao.zlx@antgroup.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev",
+    "mako": "OKAM=/Users/langezhang/open/mako/packages/bundler-okam/index.js umi dev --watch"
+  },
+  "dependencies": {
+    "umi": "^4.0.79"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.2.2"
+  }
+}

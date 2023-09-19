@@ -10,11 +10,15 @@
     "mako": "OKAM=/Users/langezhang/open/mako/packages/bundler-okam/index.js umi dev --watch"
   },
   "dependencies": {
-    "umi": "^4.0.79"
+    "@antv/g6-react-node": "1.4.5",
+    "@gedit/resource": "0.2.10",
+    "assets": "3.0.1",
+    "umi": "^4.0.80"
   },
   "devDependencies": {
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "typescript": "^5.2.2"
-  }
+  },
+  "repository": "https://github.com/HiLanXiao/mako_test.git"
 }

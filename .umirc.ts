@@ -1,8 +1,8 @@
 import { defineConfig } from 'umi';
 
 export default defineConfig({
-  routes: [{ path: '/test/index', component: 'index' }],
+  routes: [{ path: '/test', component: 'index' }],
   npmClient: 'pnpm',
   mfsu: false,
-  // publicPath: '/test/',
+  // publicPath: '/hot_update/',
 });
